@@ -1,0 +1,27 @@
+# macOS / folder metadata
+.DS_Store
+.directory
+
+# R
+.Rhistory
+.RData
+.Ruserdata
+
+# MATLAB temporary files
+*.asv
+*.autosave
+
+# Large fitted/result objects
+*.mat
+*.rds
+
+# Large/raw datasets
+1. IPIP-FFM-data/Data/data-final.csv
+1. IPIP-FFM-data/Data/B5_Red_questions.csv
+2. IPIP 100/Data/B5.csv
+2. IPIP 100/Data/B5_wo.csv
+LOPR/Data/*.sav
+
+# Temporary files
+*~
+*.tmp

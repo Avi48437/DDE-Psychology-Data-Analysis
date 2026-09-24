@@ -1,0 +1,51 @@
+CanonicalRow,OriginalRow,Variable,Question,Domain,DomainRow,SortFactorCanonical,SortFactorOriginal,SortLoading
+1,7,EXT7,I talk to a lot of different people at parties.,EXT,1,A1_1,A1_1,1.18543277418805
+2,5,EXT5,I start conversations.,EXT,2,A1_1,A1_1,1.06773212464909
+3,1,EXT1,I am the life of the party.,EXT,3,A1_1,A1_1,1.01324825102362
+4,3,EXT3,I feel comfortable around people.,EXT,4,A1_1,A1_1,0.930118224969264
+5,9,EXT9,I don't mind being the center of attention.,EXT,5,A1_1,A1_1,0.791673539521171
+6,8,EXT8,I don't like to draw attention to myself.,EXT,6,A1_1,A1_1,-0.698966704642437
+7,6,EXT6,I have little to say.,EXT,7,A1_1,A1_1,-0.73466473439716
+8,4,EXT4,I keep in the background.,EXT,8,A1_1,A1_1,-0.875891133203795
+9,10,EXT10,I am quiet around strangers.,EXT,9,A1_1,A1_1,-0.914778708508414
+10,2,EXT2,I don't talk a lot.,EXT,10,A1_1,A1_1,-0.933325965417007
+11,11,EST1,I get stressed out easily.,EST,1,A1_3,A1_2,1.06337152588561
+12,13,EST3,I worry about things.,EST,2,A1_3,A1_2,0.948923174555873
+13,16,EST6,I get upset easily.,EST,3,A1_3,A1_2,0.795928881447006
+14,19,EST9,I get irritated easily.,EST,4,A1_3,A1_2,0.709625470793629
+15,15,EST5,I am easily disturbed.,EST,5,A1_3,A1_2,0.69229510588295
+16,20,EST10,I often feel blue.,EST,6,A1_3,A1_2,0.459662709564906
+17,18,EST8,I have frequent mood swings.,EST,7,A1_3,A1_2,0.429614525023982
+18,17,EST7,I change my mood a lot.,EST,8,A1_3,A1_2,0.372063724333429
+19,14,EST4,I seldom feel blue.,EST,9,A1_3,A1_2,-0.390664089243202
+20,12,EST2,I am relaxed most of the time.,EST,10,A1_3,A1_2,-0.917152301942594
+21,24,AGR4,I sympathize with others' feelings.,AGR,1,A1_5,A1_4,1.28979485967869
+22,29,AGR9,I feel others' emotions.,AGR,2,A1_5,A1_4,1.18035163315423
+23,26,AGR6,I have a soft heart.,AGR,3,A1_5,A1_4,1.03325327017666
+24,28,AGR8,I take time out for others.,AGR,4,A1_5,A1_4,0.781582256522751
+25,30,AGR10,I make people feel at ease.,AGR,5,A1_5,A1_4,0.624099774123685
+26,22,AGR2,I am interested in people.,AGR,6,A1_5,A1_4,0.477222143621755
+27,27,AGR7,I am not really interested in others.,AGR,7,A1_5,A1_4,-0.585905337225828
+28,25,AGR5,I am not interested in other people's problems.,AGR,8,A1_5,A1_4,-0.690755082370797
+29,23,AGR3,I insult people.,AGR,9,A1_5,A1_4,-0.85508477625815
+30,21,AGR1,I feel little concern for others.,AGR,10,A1_5,A1_4,-0.881145712252505
+31,32,CSN2,I leave my belongings around.,CSN,1,A1_7,A1_6,1.22209303730342
+32,36,CSN6,I often forget to put things back in their proper place.,CSN,2,A1_7,A1_6,1.20648098461045
+33,34,CSN4,I make a mess of things.,CSN,3,A1_7,A1_6,0.769993312700307
+34,38,CSN8,I shirk my duties.,CSN,4,A1_7,A1_6,0.439243796334579
+35,40,CSN10,I am exacting in my work.,CSN,5,A1_7,A1_6,-0.209541546543064
+36,39,CSN9,I follow a schedule.,CSN,6,A1_7,A1_6,-0.381695080076059
+37,33,CSN3,I pay attention to details.,CSN,7,A1_7,A1_6,-0.419662524937228
+38,31,CSN1,I am always prepared.,CSN,8,A1_7,A1_6,-0.433683142102297
+39,35,CSN5,I get chores done right away.,CSN,9,A1_7,A1_6,-0.637699699613755
+40,37,CSN7,I like order.,CSN,10,A1_7,A1_6,-0.665528830213223
+41,44,OPN4,I am not interested in abstract ideas.,OPN,1,A1_9,A1_11,1.82488764635422
+42,42,OPN2,I have difficulty understanding abstract ideas.,OPN,2,A1_9,A1_11,1.68078306478426
+43,46,OPN6,I do not have a good imagination.,OPN,3,A1_9,A1_11,0.740247746790542
+44,43,OPN3,I have a vivid imagination.,OPN,4,A1_9,A1_11,-0.501173266068801
+45,48,OPN8,I use difficult words.,OPN,5,A1_9,A1_11,-0.625519010459787
+46,41,OPN1,I have a rich vocabulary.,OPN,6,A1_9,A1_11,-0.697452504578851
+47,45,OPN5,I have excellent ideas.,OPN,7,A1_9,A1_11,-0.731017992441331
+48,50,OPN10,I am full of ideas.,OPN,8,A1_9,A1_11,-0.805874432003248
+49,47,OPN7,I am quick to understand things.,OPN,9,A1_9,A1_11,-0.878458772714031
+50,49,OPN9,I spend time reflecting on things.,OPN,10,A1_9,A1_11,-0.879481987969514

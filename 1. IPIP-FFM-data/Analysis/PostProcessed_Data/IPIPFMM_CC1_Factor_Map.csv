@@ -1,0 +1,13 @@
+CanonicalFactor,OriginalFactor,CanonicalName,OriginalName,Domain
+1,1,A1_1,A1_1,EXT
+2,14,A1_2,A1_14,EXT
+3,2,A1_3,A1_2,EST
+4,12,A1_4,A1_12,EST
+5,4,A1_5,A1_4,AGR
+6,15,A1_6,A1_15,AGR
+7,6,A1_7,A1_6,CSN
+8,3,A1_8,A1_3,CSN
+9,11,A1_9,A1_11,OPN
+10,7,A1_10,A1_7,OPN
+11,5,A1_11,A1_5,OPN
+12,9,A1_12,A1_9,OPN

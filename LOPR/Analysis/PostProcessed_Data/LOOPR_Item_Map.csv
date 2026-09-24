@@ -1,0 +1,61 @@
+CanonicalRow,OriginalBFIItem,Item,OriginalVariable,Question,Domain
+1,21,BFI21,S1_Personality_21,"Is dominant, acts as a leader.",EXT
+2,6,BFI6,S1_Personality_6,"Has an assertive personality.",EXT
+3,46,BFI46,S1_Personality_46,"Is talkative.",EXT
+4,1,BFI1,S1_Personality_1,"Is outgoing, sociable.",EXT
+5,41,BFI41,S1_Personality_41,"Is full of energy.",EXT
+6,56,BFI56,S1_Personality_56,"Shows a lot of enthusiasm.",EXT
+7,11,BFI11,S1_Personality_11,"Rarely feels excited or eager.",EXT
+8,26,BFI26,S1_Personality_26,"Is less active than other people.",EXT
+9,36,BFI36,S1_Personality_36,"Finds it hard to influence people.",EXT
+10,16,BFI16,S1_Personality_16,"Tends to be quiet.",EXT
+11,31,BFI31,S1_Personality_31,"Is sometimes shy, introverted.",EXT
+12,51,BFI51,S1_Personality_51,"Prefers to have others take charge.",EXT
+13,54,BFI54,S1_Personality_54,"Tends to feel depressed, blue.",NEM
+14,39,BFI39,S1_Personality_39,"Often feels sad.",NEM
+15,34,BFI34,S1_Personality_34,"Worries a lot.",NEM
+16,14,BFI14,S1_Personality_14,"Is moody, has up and down mood swings.",NEM
+17,19,BFI19,S1_Personality_19,"Can be tense.",NEM
+18,59,BFI59,S1_Personality_59,"Is temperamental, gets emotional easily.",NEM
+19,44,BFI44,S1_Personality_44,"Keeps their emotions under control.",NEM
+20,9,BFI9,S1_Personality_9,"Stays optimistic after experiencing a setback.",NEM
+21,4,BFI4,S1_Personality_4,"Is relaxed, handles stress well.",NEM
+22,29,BFI29,S1_Personality_29,"Is emotionally stable, not easily upset.",NEM
+23,49,BFI49,S1_Personality_49,"Rarely feels anxious or afraid.",NEM
+24,24,BFI24,S1_Personality_24,"Feels secure, comfortable with self.",NEM
+25,22,BFI22,S1_Personality_22,"Starts arguments with others.",AGR
+26,37,BFI37,S1_Personality_37,"Is sometimes rude to others.",AGR
+27,47,BFI47,S1_Personality_47,"Can be cold and uncaring.",AGR
+28,12,BFI12,S1_Personality_12,"Tends to find fault with others.",AGR
+29,42,BFI42,S1_Personality_42,"Is suspicious of others' intentions.",AGR
+30,17,BFI17,S1_Personality_17,"Feels little sympathy for others.",AGR
+31,7,BFI7,S1_Personality_7,"Is respectful, treats others with respect.",AGR
+32,57,BFI57,S1_Personality_57,"Assumes the best about people.",AGR
+33,27,BFI27,S1_Personality_27,"Has a forgiving nature.",AGR
+34,2,BFI2,S1_Personality_2,"Is compassionate, has a soft heart.",AGR
+35,32,BFI32,S1_Personality_32,"Is helpful and unselfish with others.",AGR
+36,52,BFI52,S1_Personality_52,"Is polite, courteous toward others.",AGR
+37,33,BFI33,S1_Personality_33,"Keeps things neat and tidy.",CSN
+38,18,BFI18,S1_Personality_18,"Is systematic, likes to keep things in order.",CSN
+39,53,BFI53,S1_Personality_53,"Is persistent, works until the task is finished.",CSN
+40,38,BFI38,S1_Personality_38,"Is efficient, gets things done.",CSN
+41,13,BFI13,S1_Personality_13,"Is dependable, steady.",CSN
+42,43,BFI43,S1_Personality_43,"Is reliable, can always be counted on.",CSN
+43,23,BFI23,S1_Personality_23,"Has difficulty getting started on tasks.",CSN
+44,58,BFI58,S1_Personality_58,"Sometimes behaves irresponsibly.",CSN
+45,28,BFI28,S1_Personality_28,"Can be somewhat careless.",CSN
+46,8,BFI8,S1_Personality_8,"Tends to be lazy.",CSN
+47,3,BFI3,S1_Personality_3,"Tends to be disorganized.",CSN
+48,48,BFI48,S1_Personality_48,"Leaves a mess, doesn't clean up.",CSN
+49,20,BFI20,S1_Personality_20,"Is fascinated by art, music, or literature.",OPN
+50,35,BFI35,S1_Personality_35,"Values art and beauty.",OPN
+51,10,BFI10,S1_Personality_10,"Is curious about many different things.",OPN
+52,40,BFI40,S1_Personality_40,"Is complex, a deep thinker.",OPN
+53,60,BFI60,S1_Personality_60,"Is original, comes up with new ideas.",OPN
+54,15,BFI15,S1_Personality_15,"Is inventive, finds clever ways to do things.",OPN
+55,25,BFI25,S1_Personality_25,"Avoids intellectual, philosophical discussions.",OPN
+56,55,BFI55,S1_Personality_55,"Has little interest in abstract ideas.",OPN
+57,5,BFI5,S1_Personality_5,"Has few artistic interests.",OPN
+58,30,BFI30,S1_Personality_30,"Has little creativity.",OPN
+59,45,BFI45,S1_Personality_45,"Has difficulty imagining things.",OPN
+60,50,BFI50,S1_Personality_50,"Thinks poetry and plays are boring.",OPN

@@ -1,0 +1,99 @@
+CanonicalRow,SourceRow,OriginalRow,Variable,Item,Question,Domain
+1,48,49,BIGFIVE_49,EXT10,Keep others at a distance,EXT
+2,18,18,BIGFIVE_18,EXT4,Avoid contact with others,EXT
+3,97,99,BIGFIVE_99,EXT20,Am hard to get to know,EXT
+4,77,79,BIGFIVE_79,EXT16,Retreat from others,EXT
+5,29,29,BIGFIVE_29,EXT6,Don't talk a lot,EXT
+6,39,39,BIGFIVE_39,EXT8,Have little to say,EXT
+7,67,69,BIGFIVE_69,EXT14,Find it difficult to approach others,EXT
+8,14,14,BIGFIVE_14,EXT3,Keep in the background,EXT
+9,57,59,BIGFIVE_59,EXT12,Don't like to draw attention to myself,EXT
+10,87,89,BIGFIVE_89,EXT18,Would describe my experiences as somewhat dull,EXT
+11,3,3,BIGFIVE_3,EXT1,Do not mind being the center of attention,EXT
+12,23,23,BIGFIVE_23,EXT5,Cheer people up,EXT
+13,51,53,BIGFIVE_53,EXT11,Know how to captivate people,EXT
+14,61,63,BIGFIVE_63,EXT13,Am the life of the party,EXT
+15,71,73,BIGFIVE_73,EXT15,Am skilled in handling social situations,EXT
+16,10,10,BIGFIVE_10,EXT2,Make friends easily,EXT
+17,91,93,BIGFIVE_93,EXT19,Start conversations,EXT
+18,33,33,BIGFIVE_33,EXT7,Warm up quickly to others,EXT
+19,81,83,BIGFIVE_83,EXT17,Feel comfortable around people,EXT
+20,43,43,BIGFIVE_43,EXT9,Talk to a lot of different people at parties,EXT
+21,58,60,BIGFIVE_60,EST12,Worry about things,EST
+22,49,50,BIGFIVE_50,EST10,Panic easily,EST
+23,17,17,BIGFIVE_17,EST3,Get stressed out easily,EST
+24,88,90,BIGFIVE_90,EST18,Am filled with doubts about things,EST
+25,40,40,BIGFIVE_40,EST8,Fear for the worst,EST
+26,68,70,BIGFIVE_70,EST14,Have frequent mood swings,EST
+27,78,80,BIGFIVE_80,EST16,Am often down in the dumps,EST
+28,98,100,BIGFIVE_100,EST20,Feel threatened easily,EST
+29,12,12,BIGFIVE_12,EST2,Often feel blue,EST
+30,30,30,BIGFIVE_30,EST6,Dislike myself,EST
+31,95,97,BIGFIVE_97,EST19,Am very pleased with myself,EST
+32,11,11,BIGFIVE_11,EST1,Feel comfortable with myself,EST
+33,27,27,BIGFIVE_27,EST5,Am relaxed most of the time,EST
+34,55,57,BIGFIVE_57,EST11,Rarely lose my composure,EST
+35,37,37,BIGFIVE_37,EST7,Seldom feel blue,EST
+36,75,77,BIGFIVE_77,EST15,Seldom get mad,EST
+37,85,87,BIGFIVE_87,EST17,Remain calm under pressure,EST
+38,65,67,BIGFIVE_67,EST13,Rarely get irritated,EST
+39,19,19,BIGFIVE_19,EST4,Am not easily bothered by things,EST
+40,46,47,BIGFIVE_47,EST9,Am not easily frustrated,EST
+41,64,66,BIGFIVE_66,AGR14,Respect others,AGR
+42,74,76,BIGFIVE_76,AGR16,Sympathize with others' feelings,AGR
+43,94,96,BIGFIVE_96,AGR20,Treat all people equally,AGR
+44,26,26,BIGFIVE_26,AGR6,Am concerned about others,AGR
+45,36,36,BIGFIVE_36,AGR8,Make people feel at ease,AGR
+46,45,46,BIGFIVE_46,AGR10,Accept people as they are,AGR
+47,84,86,BIGFIVE_86,AGR18,Have a good word for everyone,AGR
+48,13,13,BIGFIVE_13,AGR4,Am easy to satisfy,AGR
+49,6,6,BIGFIVE_6,AGR2,Believe that others have good intentions,AGR
+50,54,56,BIGFIVE_56,AGR12,Trust what people say,AGR
+51,22,22,BIGFIVE_22,AGR5,Suspect hidden motives in others,AGR
+52,32,32,BIGFIVE_32,AGR7,Get back at others,AGR
+53,50,52,BIGFIVE_52,AGR11,Contradict others,AGR
+54,60,62,BIGFIVE_62,AGR13,Make demands on others,AGR
+55,70,72,BIGFIVE_72,AGR15,Am out for my own personal gain,AGR
+56,80,82,BIGFIVE_82,AGR17,Have a sharp tongue,AGR
+57,2,2,BIGFIVE_2,AGR1,Hold a grudge,AGR
+58,42,42,BIGFIVE_42,AGR9,Believe that I am better than others,AGR
+59,90,92,BIGFIVE_92,AGR19,Insult people,AGR
+60,9,9,BIGFIVE_9,AGR3,Cut others to pieces,AGR
+61,20,20,BIGFIVE_20,CSN4,Shirk my duties,CSN
+62,96,98,BIGFIVE_98,CSN20,Do just enough work to get by,CSN
+63,47,48,BIGFIVE_48,CSN10,Don't put my mind on the task at hand,CSN
+64,76,78,BIGFIVE_78,CSN16,Don't see things through,CSN
+65,86,88,BIGFIVE_88,CSN18,Find it difficult to get down to work,CSN
+66,66,68,BIGFIVE_68,CSN14,Make a mess of things,CSN
+67,56,58,BIGFIVE_58,CSN12,Leave things unfinished,CSN
+68,38,38,BIGFIVE_38,CSN8,Mess things up,CSN
+69,28,28,BIGFIVE_28,CSN6,Waste my time,CSN
+70,8,8,BIGFIVE_8,CSN2,Need a push to get started,CSN
+71,15,15,BIGFIVE_15,CSN3,Am always prepared,CSN
+72,25,25,BIGFIVE_25,CSN5,Do things according to a plan,CSN
+73,53,55,BIGFIVE_55,CSN11,Make plans and stick to them,CSN
+74,73,75,BIGFIVE_75,CSN15,Get chores done right away,CSN
+75,93,95,BIGFIVE_95,CSN19,Carry out my plans,CSN
+76,35,35,BIGFIVE_35,CSN7,Follow through with my plans,CSN
+77,63,65,BIGFIVE_65,CSN13,Finish what I start,CSN
+78,44,45,BIGFIVE_45,CSN9,Am exacting in my work,CSN
+79,5,5,BIGFIVE_5,CSN1,Complete tasks successfully,CSN
+80,83,85,BIGFIVE_85,CSN17,Pay attention to details,CSN
+81,72,74,BIGFIVE_74,OPN14,Do not like art,OPN
+82,34,34,BIGFIVE_34,OPN8,Do not enjoy going to art museums,OPN
+83,4,4,BIGFIVE_4,OPN2,Do not like poetry,OPN
+84,82,84,BIGFIVE_84,OPN16,Believe that too much tax money goes to support artists,OPN
+85,52,54,BIGFIVE_54,OPN10,Am not interested in theoretical discussions,OPN
+86,24,24,BIGFIVE_24,OPN6,Am not interested in abstract ideas,OPN
+87,7,7,BIGFIVE_7,OPN3,Avoid philosophical discussions,OPN
+88,92,94,BIGFIVE_94,OPN18,Rarely look for a deeper meaning in things,OPN
+89,62,64,BIGFIVE_64,OPN12,Have difficulty understanding abstract ideas,OPN
+90,21,21,BIGFIVE_21,OPN5,Can say things beautifully,OPN
+91,41,41,BIGFIVE_41,OPN9,Carry the conversation to a higher level,OPN
+92,16,16,BIGFIVE_16,OPN4,Enjoy wild flights of fantasy,OPN
+93,69,71,BIGFIVE_71,OPN13,Have a rich vocabulary,OPN
+94,79,81,BIGFIVE_81,OPN15,Get excited by new ideas,OPN
+95,59,61,BIGFIVE_61,OPN11,Enjoy hearing new ideas,OPN
+96,31,31,BIGFIVE_31,OPN7,Enjoy thinking about things,OPN
+97,1,1,BIGFIVE_1,OPN1,Have a vivid imagination,OPN
+98,89,91,BIGFIVE_91,OPN17,Believe in the importance of art,OPN

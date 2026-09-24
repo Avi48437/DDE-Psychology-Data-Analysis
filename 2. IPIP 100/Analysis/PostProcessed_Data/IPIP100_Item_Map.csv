@@ -1,0 +1,101 @@
+CanonicalRow,OriginalRow,Variable,Question,Domain,DomainRow,SortFactor,SortLoading
+1,18,q18,Avoid contact with others,EXT,1,A1_1,0.983363138089308
+2,49,q49,Keep others at a distance,EXT,2,A1_1,0.916866078317415
+3,79,q79,Retreat from others,EXT,3,A1_1,0.868559863306858
+4,99,q99,Am hard to get to know,EXT,4,A1_1,0.761415877495298
+5,29,q29,Don't talk a lot,EXT,5,A1_1,0.720612775461374
+6,14,q14,Keep in the background,EXT,6,A1_1,0.666644282179586
+7,39,q39,Have little to say,EXT,7,A1_1,0.655362423070283
+8,59,q59,Don't like to draw attention to myself,EXT,8,A1_1,0.519407570492704
+9,69,q69,Find it difficult to approach others,EXT,9,A1_1,0.498577828097385
+10,89,q89,Would describe my experiences as somewhat dull,EXT,10,A1_1,0.273546990008355
+11,3,q3,Do not mind being the center of attention,EXT,11,A1_1,0
+12,23,q23,Cheer people up,EXT,12,A1_1,0
+13,53,q53,Know how to captivate people,EXT,13,A1_1,0
+14,63,q63,Am the life of the party,EXT,14,A1_1,0
+15,73,q73,Am skilled in handling social situations,EXT,15,A1_1,0
+16,93,q93,Start conversations,EXT,16,A1_1,-0.262785379743059
+17,10,q10,Make friends easily,EXT,17,A1_1,-0.271837637747598
+18,33,q33,Warm up quickly to others,EXT,18,A1_1,-0.32306287006496
+19,43,q43,Talk to a lot of different people at parties,EXT,19,A1_1,-0.382434340015862
+20,83,q83,Feel comfortable around people,EXT,20,A1_1,-0.484658261888004
+21,11,q11,Feel comfortable with myself,EST,1,A1_3,1.07347983874623
+22,97,q97,Am very pleased with myself,EST,2,A1_3,0.79382751054417
+23,37,q37,Seldom feel blue,EST,3,A1_3,0.646021749041873
+24,27,q27,Am relaxed most of the time,EST,4,A1_3,0.619570600843719
+25,19,q19,Am not easily bothered by things,EST,5,A1_3,0.444619809171863
+26,47,q47,Am not easily frustrated,EST,6,A1_3,0
+27,50,q50,Panic easily,EST,7,A1_3,0
+28,57,q57,Rarely lose my composure,EST,8,A1_3,0
+29,67,q67,Rarely get irritated,EST,9,A1_3,0
+30,77,q77,Seldom get mad,EST,10,A1_3,0
+31,87,q87,Remain calm under pressure,EST,11,A1_3,0
+32,100,q100,Feel threatened easily,EST,12,A1_3,0
+33,60,q60,Worry about things,EST,13,A1_3,-0.217619549162935
+34,17,q17,Get stressed out easily,EST,14,A1_3,-0.244092995179948
+35,90,q90,Am filled with doubts about things,EST,15,A1_3,-0.349464605681177
+36,70,q70,Have frequent mood swings,EST,16,A1_3,-0.35087486614661
+37,40,q40,Fear for the worst,EST,17,A1_3,-0.366886388079196
+38,12,q12,Often feel blue,EST,18,A1_3,-0.799011979913307
+39,80,q80,Am often down in the dumps,EST,19,A1_3,-0.802538876811127
+40,30,q30,Dislike myself,EST,20,A1_3,-0.979143301207914
+41,9,q9,Cut others to pieces,AGR,1,A1_5,1.59736106393201
+42,92,q92,Insult people,AGR,2,A1_5,1.23298213294426
+43,42,q42,Believe that I am better than others,AGR,3,A1_5,1.05985954746454
+44,32,q32,Get back at others,AGR,4,A1_5,1.03643054516597
+45,62,q62,Make demands on others,AGR,5,A1_5,0.929147216685629
+46,72,q72,Am out for my own personal gain,AGR,6,A1_5,0.884268880852386
+47,52,q52,Contradict others,AGR,7,A1_5,0.787912698323914
+48,82,q82,Have a sharp tongue,AGR,8,A1_5,0.702995993091427
+49,2,q2,Hold a grudge,AGR,9,A1_5,0.68335504993081
+50,22,q22,Suspect hidden motives in others,AGR,10,A1_5,0.217246832336211
+51,56,q56,Trust what people say,AGR,11,A1_5,-0.246541178119956
+52,6,q6,Believe that others have good intentions,AGR,12,A1_5,-0.419528319544845
+53,86,q86,Have a good word for everyone,AGR,13,A1_5,-0.678910595952754
+54,13,q13,Am easy to satisfy,AGR,14,A1_5,-0.690559149833783
+55,36,q36,Make people feel at ease,AGR,15,A1_5,-0.696959642061309
+56,46,q46,Accept people as they are,AGR,16,A1_5,-0.741486692958073
+57,96,q96,Treat all people equally,AGR,17,A1_5,-0.83617918781746
+58,26,q26,Am concerned about others,AGR,18,A1_5,-0.895032457699657
+59,76,q76,Sympathize with others' feelings,AGR,19,A1_5,-0.935082510542036
+60,66,q66,Respect others,AGR,20,A1_5,-1.10260496204903
+61,35,q35,Follow through with my plans,CSN,1,A1_6,1.19828532402424
+62,65,q65,Finish what I start,CSN,2,A1_6,1.16580247906004
+63,95,q95,Carry out my plans,CSN,3,A1_6,1.13161702514756
+64,5,q5,Complete tasks successfully,CSN,4,A1_6,1.11514307054712
+65,55,q55,Make plans and stick to them,CSN,5,A1_6,1.05575183872817
+66,25,q25,Do things according to a plan,CSN,6,A1_6,0.981516410067684
+67,85,q85,Pay attention to details,CSN,7,A1_6,0.918840900437278
+68,15,q15,Am always prepared,CSN,8,A1_6,0.856802949122473
+69,45,q45,Am exacting in my work,CSN,9,A1_6,0.760385668285989
+70,75,q75,Get chores done right away,CSN,10,A1_6,0.7526879063988
+71,8,q8,Need a push to get started,CSN,11,A1_6,-0.555011832182991
+72,98,q98,Do just enough work to get by,CSN,12,A1_6,-0.591348633256214
+73,38,q38,Mess things up,CSN,13,A1_6,-0.600006286429742
+74,20,q20,Shirk my duties,CSN,14,A1_6,-0.637129309463756
+75,28,q28,Waste my time,CSN,15,A1_6,-0.723783131861966
+76,48,q48,Don't put my mind on the task at hand,CSN,16,A1_6,-0.752036541824446
+77,58,q58,Leave things unfinished,CSN,17,A1_6,-0.80504692356863
+78,68,q68,Make a mess of things,CSN,18,A1_6,-0.815054594677644
+79,88,q88,Find it difficult to get down to work,CSN,19,A1_6,-0.900851405236114
+80,78,q78,Don't see things through,CSN,20,A1_6,-1.07989229222767
+81,74,q74,Do not like art,OPN,1,A1_8,1.5194325278956
+82,34,q34,Do not enjoy going to art museums,OPN,2,A1_8,1.20962677118767
+83,4,q4,Do not like poetry,OPN,3,A1_8,1.06772258368162
+84,94,q94,Rarely look for a deeper meaning in things,OPN,4,A1_8,1.05169703287609
+85,24,q24,Am not interested in abstract ideas,OPN,5,A1_8,1.02599763069886
+86,54,q54,Am not interested in theoretical discussions,OPN,6,A1_8,0.915771515030349
+87,64,q64,Have difficulty understanding abstract ideas,OPN,7,A1_8,0.906381791032852
+88,7,q7,Avoid philosophical discussions,OPN,8,A1_8,0.895948636098518
+89,84,q84,Believe that too much tax money goes to support artists,OPN,9,A1_8,0.88856796805464
+90,44,q44,Tend to vote for conservative political candidates,OPN,10,A1_8,0.840617983833781
+91,21,q21,Can say things beautifully,OPN,11,A1_8,-0.404023629921329
+92,41,q41,Carry the conversation to a higher level,OPN,12,A1_8,-0.5292780857406
+93,16,q16,Enjoy wild flights of fantasy,OPN,13,A1_8,-0.773966196481155
+94,71,q71,Have a rich vocabulary,OPN,14,A1_8,-0.783491977236882
+95,51,q51,Tend to vote for liberal political candidates,OPN,15,A1_8,-0.809382112194977
+96,81,q81,Get excited by new ideas,OPN,16,A1_8,-0.825415645130901
+97,61,q61,Enjoy hearing new ideas,OPN,17,A1_8,-0.840962060623835
+98,31,q31,Enjoy thinking about things,OPN,18,A1_8,-0.930931919890507
+99,1,q1,Have a vivid imagination,OPN,19,A1_8,-0.978515957363985
+100,91,q91,Believe in the importance of art,OPN,20,A1_8,-1.28173482164235
